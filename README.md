@@ -1,4 +1,4 @@
-# Projeto-AV2-Programa-o-Web
+# Projeto-AV2-Programacao-Web
 Membros: Adriano Lopes, Jefferson Alisson, Matheus Enriques Morais de Oliveira e Rodrigo Firmino,
 Criação de site de fotografia
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
