@@ -2,13 +2,14 @@
 Membros: Adriano Lopes, Jefferson Alisson, Matheus Enriques Morais de Oliveira e Rodrigo Firmino,
 Criação de site de fotografia
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-1- topo home, portifolio, pacotes,                    redes sociais [AGENDAMENTO]
 
-2- fotos de temas passando como imagens clicaveis que leva a uma galeria.
+1- Topo do site: Home, Portfólio, Pacotes, Redes Sociais e botão de Agendamento
 
-3- quem sou.
+2- Seção de temas: Fotos apresentadas como imagens clicáveis que levam a uma galeria
 
-4- rodapé: direitos reservados, localização(endereço), contatos e redessociais.
+3- Quem Sou: Apresentação da fotógrafa
+
+4- Rodapé: Direitos reservados, localização (endereço), contatos e redes sociais
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
