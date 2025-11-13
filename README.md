@@ -1,7 +1,6 @@
 # Projeto-AV2-Programa-o-Web
 Membros: Adriano Lopes, Jefferson Alisson, Matheus Enriques Morais de Oliveira e Rodrigo Firmino,
 Criação de site de fotografia
-Site de referencia: https://color.pixpa.com/
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 1- topo home, portifolio, pacotes,                    redes sociais [AGENDAMENTO]
 
