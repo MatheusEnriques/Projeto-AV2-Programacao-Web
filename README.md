@@ -1,1 +1,15 @@
 # Projeto-AV2-Programa-o-Web
+Membros: Adriano, Matheus Enriques Morais de Oliveira, 
+Criação de site de fotografia
+Site de referencia: https://color.pixpa.com/
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+1- topo home, portifolio, pacotes,                    redes sociais [AGENDAMENTO]
+
+2- fotos de temas passando como imagens clicaveis que leva a uma galeria.
+
+3- quem sou.
+
+4- rodapé: direitos reservados, localização(endereço), contatos e redessociais.
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+O que vamos precisar: historia e foto da fotografa, logo-marca, pertifolio, pacotes dos serviços, melhores fotos de cada
+tipo de ensaio, endereço do estudio, contato profissional e link das redes sociais.
