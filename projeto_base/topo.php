@@ -1,16 +1,31 @@
 <!DOCTYPE html>
-<html lang="en">
-<head>
-    <title>Site Institucional</title>
-    <meta charset="utf-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1">
-    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/css/bootstrap.min.css" rel="stylesheet">
-    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/js/bootstrap.bundle.min.js"></script>
-</head>
-<body>
-<header class="navbar navbar-expand-sm bg-light navbar-light">
-    <div class="container-fluid">
-       <h2>Site Institucional</h2>
-    </div>
-</header>
+<html lang="pt-br">
 
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Projeto Final</title>
+</head>
+
+<body>
+    <nav>
+        <div class="menu">
+            <ul>
+                <li class="nav-iten">
+                    <a>Home</a>
+                </li>
+                <li class="nav-iten">
+                    <a href="">Portfólio</a>
+                </li>
+                <li class="nav-iten">
+                    <a href="">Pacotes</a>
+                </li>
+                <li class="nav-iten">
+                    <a href="">Redes Sociais</a>
+                </li>
+                <li class="nav-iten">
+                    <a href="">Reserva</a>
+                </li>
+            </ul>
+        </div>
+    </nav>
