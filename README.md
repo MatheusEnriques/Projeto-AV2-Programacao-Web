@@ -15,6 +15,10 @@ Membros: Adriano Lopes, Jefferson Alisson, Matheus Enriques Morais de Oliveira e
 
 O que vamos precisar: a história e uma foto da fotógrafa, a logomarca, o portfólio completo, os pacotes de serviços, as melhores fotos de cada tipo de ensaio, o endereço do estúdio, o contato profissional e os links das redes sociais.
 
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+mod1: Foram criados os arquivos .php referentes ao topo, à página de reserva e ao rodapé. Também foram adicionadas as imagens que serão utilizadas no projeto final, juntamente com a bibliografia da fotógrafa.
+
 fotografa: Jessica Ferreira Fotografia
 
 
