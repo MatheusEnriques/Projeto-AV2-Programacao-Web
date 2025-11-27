@@ -12,26 +12,26 @@
 
 <header>
     <span class="logotipo"><img src="./logo.JPG" alt="logo"></span>
+
     <nav>
-        
-            <ul class="nav-links">
-                <li class="nav-iten">
-                    <a>Home</a>
-                </li>
-                <li>
-                    <a href="">Portfólio</a>
-                </li>
-                <li>
-                    <a href="">Pacotes</a>
-                </li>
-                <li>
-                    <a href="">Redes Sociais</a>
-                </li>
-                <li>
-                    <a href="">Reserva</a>
-                </li>
-            </ul>
-     
+        <ul class="nav-links">
+            <li class="nav-item">
+                <a href="#home">Home</a> 
+            </li>
+            <li class="nav-item">
+                <a href="portfolio.html">Portfólio</a>
+            </li>
+            <li class="nav-item">
+                <a href="pacotes.html">Pacotes</a>
+            </li>
+            <li class="nav-item">
+                <a href="redes-sociais.html">Redes Sociais</a>
+            </li>
+            <li class="nav-item">
+                <a href="reserva.html">Reserva</a>
+            </li>
+        </ul>
     </nav>
-    <a href="#"><button>Contato</button></a>
+    
+    <a href="contato.html"><button>Contato</button></a>
 </header>

@@ -1,9 +1,14 @@
 <footer class="card">
-   
+    
+    <address>
+        Rua do mataroudo - 593, Goiana, Pernambuco
+    </address>
+    
+    <small>
+        2025 &copy; Direitos Reservados
+    </small>
+    
 </footer>
-<address>Jõao Pessoa</address>
-2025 &copy; Direitos Reservados
-
 
 </body>
 </html>
