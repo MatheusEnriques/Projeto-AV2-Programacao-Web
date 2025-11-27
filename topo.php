@@ -16,22 +16,20 @@
     <nav>
         <ul class="nav-links">
             <li class="nav-item">
-                <a href="#home">Home</a> 
+                <a href="?pg=topo">Home</a> 
             </li>
             <li class="nav-item">
-                <a href="portfolio.html">Portfólio</a>
+                <a href="?pg=portifolio">Portfólio</a>
             </li>
             <li class="nav-item">
-                <a href="pacotes.html">Pacotes</a>
+                <a href="?pg=pacote">Pacotes</a>
             </li>
             <li class="nav-item">
-                <a href="redes-sociais.html">Redes Sociais</a>
+                <a href="?pg=redes-sociais">Redes Sociais</a>
             </li>
-            <li class="nav-item">
-                <a href="reserva.html">Reserva</a>
-            </li>
+            
         </ul>
     </nav>
     
-    <a href="contato.html"><button>Contato</button></a>
+    <a href="./reserva.php"><button>Reserva</button></a>
 </header>
