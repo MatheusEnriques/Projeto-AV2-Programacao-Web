@@ -1,5 +1,5 @@
 # Projeto-AV2-Programacao-Web - Site de fotografia
-Membros: Adriano Lopes, Jefferson Alisson, Matheus Enriques Morais de Oliveira e Rodrigo Firmino.
+Membros: Adriano Lopes, Jefferson Alisson, Matheus Enriques e Rodrigo Firmino.
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
@@ -22,3 +22,7 @@ mod1: Foram criados os arquivos .php referentes ao topo, à página de reserva e
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 mod2: Boa parte do front end foi finalizado.
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+mod3: A área de home, quem somos, fale conosco, redes sociais e pacotes já estão funcionando no MySQL.
