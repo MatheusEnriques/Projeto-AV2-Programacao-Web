@@ -18,3 +18,7 @@ O que vamos precisar: a história e uma foto da fotógrafa, a logomarca, o portf
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 mod1: Foram criados os arquivos .php referentes ao topo, à página de reserva e ao rodapé. Também foram adicionadas as imagens que serão utilizadas no projeto final, juntamente com a bibliografia da fotógrafa.
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+mod2: Boa parte do front end foi finalizado.
