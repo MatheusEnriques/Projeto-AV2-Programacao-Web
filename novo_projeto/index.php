@@ -1,12 +1,6 @@
 <?php
-    // 1. Inclusão dos componentes fixos (Topo e Menu)
     include_once "topo.php";
-    //include_once "menu.php";
 
-    // ----------------------------------------------------
-    // Lógica de Roteamento de Conteúdo (Corrigida e Mais Segura)
-    // ----------------------------------------------------
-    
     // Define a página padrão
     $pg = "conteudo"; 
 
@@ -49,4 +43,5 @@
     
     // 2. Inclusão do Rodapé fixo
     include_once "rodape.php";
+
 ?>
