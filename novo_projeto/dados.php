@@ -22,8 +22,8 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST') {
         exit;
     }
     
-    // Aqui você salvaria no banco de dados
-    // Exemplo: INSERT INTO reservas (cliente, email, telefone, data, hora) VALUES (...)
+
+    // Exemplo: INSERT INTO reservas (precisa implementar o banco de dados)
     
     $_SESSION['sucesso_reserva'] = "Reserva enviada com sucesso! Confirmaremos por email.";
     header('Location: index.php?pg=conteudo');
@@ -32,4 +32,5 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST') {
     header('Location: index.php?pg=reserva');
     exit;
 }
+
 ?>
