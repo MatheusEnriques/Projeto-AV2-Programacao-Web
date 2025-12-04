@@ -1,7 +1,5 @@
 <?php
-/**
- * Carrossel Simples SEM JavaScript e SEM Auto-refresh
- */
+
 
 // Define o array de imagens
 $slides = [
@@ -28,9 +26,7 @@ $total_slides = count($slides);
 $current_index = isset($_GET['img']) ? (int)$_GET['img'] % $total_slides : 0;
 ?>
 
-<!-- ============================================
-     CARROSSEL PRINCIPAL (NAVEGAÇÃO MANUAL APENAS)
-     ============================================ -->
+    // CARROSSEL PRINCIPAL
 <div class="carrossel-container">
     <div style="text-align: center; margin-bottom: 15px;">
         <h3 style="color: #2c3e50;">Nossos trabalhos</h3>
@@ -77,14 +73,11 @@ $current_index = isset($_GET['img']) ? (int)$_GET['img'] % $total_slides : 0;
     </div>
 </div>
 
-<!-- ============================================
-     SEÇÃO: POR QUE ESCOLHER NOSSOS SERVIÇOS?
-     ============================================ -->
+<!--SEÇÃO: POR QUE ESCOLHER NOSSOS SERVIÇOS?-->
 <div class="secao-destaques mt-5">
     <h3 class="text-center mb-4">Por que escolher a Jessica Ferreira como fotografa?</h3>
     
     <div class="row">
-        <!-- Destaque 1 -->
         <div class="col-md-3 text-center mb-4">
             <div class="destaque-item">
                 <div class="destaque-icone">
@@ -95,7 +88,6 @@ $current_index = isset($_GET['img']) ? (int)$_GET['img'] % $total_slides : 0;
             </div>
         </div>
         
-        <!-- Destaque 2 -->
         <div class="col-md-3 text-center mb-4">
             <div class="destaque-item">
                 <div class="destaque-icone">
@@ -106,7 +98,6 @@ $current_index = isset($_GET['img']) ? (int)$_GET['img'] % $total_slides : 0;
             </div>
         </div>
         
-        <!-- Destaque 3 -->
         <div class="col-md-3 text-center mb-4">
             <div class="destaque-item">
                 <div class="destaque-icone">
@@ -117,7 +108,6 @@ $current_index = isset($_GET['img']) ? (int)$_GET['img'] % $total_slides : 0;
             </div>
         </div>
         
-        <!-- Destaque 4 -->
         <div class="col-md-3 text-center mb-4">
             <div class="destaque-item">
                 <div class="destaque-icone">
@@ -130,14 +120,11 @@ $current_index = isset($_GET['img']) ? (int)$_GET['img'] % $total_slides : 0;
     </div>
 </div>
 
-<!-- ============================================
-     SEÇÃO: PACOTES EM DESTAQUE
-     ============================================ -->
+<!--SEÇÃO: PACOTES EM DESTAQUE-->
 <div class="secao-pacotes mt-5">
     <h3 class="text-center mb-4">Conheça Nossos Pacotes</h3>
     
     <div class="row justify-content-center">
-        <!-- Pacote Básico -->
         <div class="col-md-4 mb-4">
             <div class="card-pacote">
                 <div class="card-pacote-cabecalho" style="background: #3498db;">
@@ -158,7 +145,6 @@ $current_index = isset($_GET['img']) ? (int)$_GET['img'] % $total_slides : 0;
             </div>
         </div>
         
-        <!-- Pacote Mais Popular -->
         <div class="col-md-4 mb-4">
             <div class="card-pacote">
                 <div class="card-pacote-cabecalho" style="background: #e74c3c;">
@@ -189,14 +175,11 @@ $current_index = isset($_GET['img']) ? (int)$_GET['img'] % $total_slides : 0;
     </div>
 </div>
 
-<!-- ============================================
-     SEÇÃO: DEPOIMENTOS DE CLIENTES
-     ============================================ -->
+<!--SEÇÃO: DEPOIMENTOS DE CLIENTES-->
 <div class="secao-depoimentos mt-5">
     <h3 class="text-center mb-4">O que nossos clientes dizem</h3>
     
     <div class="row">
-        <!-- Depoimento 1 -->
         <div class="col-md-4 mb-4">
             <div class="depoimento-card">
                 <div class="depoimento-texto">
@@ -209,7 +192,6 @@ $current_index = isset($_GET['img']) ? (int)$_GET['img'] % $total_slides : 0;
             </div>
         </div>
         
-        <!-- Depoimento 2 -->
         <div class="col-md-4 mb-4">
             <div class="depoimento-card">
                 <div class="depoimento-texto">
@@ -222,7 +204,6 @@ $current_index = isset($_GET['img']) ? (int)$_GET['img'] % $total_slides : 0;
             </div>
         </div>
         
-        <!-- Depoimento 3 -->
         <div class="col-md-4 mb-4">
             <div class="depoimento-card">
                 <div class="depoimento-texto">
@@ -237,9 +218,7 @@ $current_index = isset($_GET['img']) ? (int)$_GET['img'] % $total_slides : 0;
     </div>
 </div>
 
-<!-- ============================================
-     SEÇÃO: CTA (CALL TO ACTION) PRINCIPAL
-     ============================================ -->
+<!--SEÇÃO: CTA (CALL TO ACTION) PRINCIPAL-->
 <div class="secao-cta mt-5 text-center">
     <div class="cta-container">
         <h3>Pronto para eternizar seus momentos especiais?</h3>
@@ -256,9 +235,7 @@ $current_index = isset($_GET['img']) ? (int)$_GET['img'] % $total_slides : 0;
     </div>
 </div>
 
-<!-- ============================================
-     SEÇÃO: ESTATÍSTICAS
-     ============================================ -->
+<!--SEÇÃO: ESTATÍSTICAS-->
 <div class="secao-estatisticas mt-5">
     <div class="row text-center">
         <div class="col-md-3 mb-4">
@@ -291,9 +268,7 @@ $current_index = isset($_GET['img']) ? (int)$_GET['img'] % $total_slides : 0;
     </div>
 </div>
 
-<!-- ============================================
-     SEÇÃO: ÁREA DE ATUAÇÃO
-     ============================================ -->
+<!--SEÇÃO: ÁREA DE ATUAÇÃO-->
 <div class="secao-localizacao mt-5">
     <h3 class="text-center mb-4">Atendemos em João Pessoa e Região</h3>
     
@@ -656,4 +631,5 @@ $current_index = isset($_GET['img']) ? (int)$_GET['img'] % $total_slides : 0;
         text-align: center;
     }
 }
+
 </style>
